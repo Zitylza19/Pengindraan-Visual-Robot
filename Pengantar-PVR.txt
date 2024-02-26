@@ -1,0 +1,11 @@
+Berikut ini materi yang akan dipelajari:
+a. Kamera, memprogram kamera untuk mendeteksi garis, kode QR
+b. Diagram Alir, representasi gtrafis atau urutan langkah-langkah dalam menyelesaiakan sebuah aktivitas atau tugas
+   Mulai - Proses A - Akhir
+   Mulai Proses A - Proses A - Akhir Proses A
+c. Bahasa Pemrograman, Sejarah bahasa pemrograman dimulai pada bahasa A - bahasa B - Bahasa C - Bahasa C++
+   Bahasa C++ menjadi turunan dari berbagai bahasa pemrograman:
+   - Arduino
+   - Phyton
+   - Dark
+   - Ruby
